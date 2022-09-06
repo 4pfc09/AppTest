@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My AppEmptyActivity</string>
+    <string name="editTextUsernameHint">User name</string>
+    <string name="editTextPasswordHint">Password</string>
+    <string name="btnLoginText">Sign in</string>
+    <string name="editTextUserEmptyText">Introduzca nombre de usuario</string>
+    <string name="editTextPassErrorText">La contraseña no es correcta</string>
+
+
+</resources>
