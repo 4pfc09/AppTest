@@ -15,9 +15,9 @@ public class CameraActivity extends AppCompatActivity {
         setContentView(R.layout.activity_camera);
 
 
-       /* Toast toast = Toast.makeText(this,
-                (String) checkCameraHardware(this), Toast.LENGTH_LONG);
-        toast.show();*/
+       Toast toast = Toast.makeText(this,
+              Boolean.toString(checkCameraHardware(this)), Toast.LENGTH_LONG);
+        toast.show();
 
 
     }
@@ -36,15 +36,5 @@ public class CameraActivity extends AppCompatActivity {
         }
     }
 
-    /**
-     public static Camera2 getCameraInstance(){
-     Camera c = null;
-     try {
-     c = Camera.open(); // attempt to get a Camera instance
-     }s
-     catch (Exception e){
-     // Camera is not available (in use or does not exist)
-     }
-     return c; // returns null if camera is unavailable
-     }*/
+
 }
