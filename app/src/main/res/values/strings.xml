@@ -6,6 +6,11 @@
     <string name="editTextUserEmptyText">Introduzca nombre de usuario</string>
     <string name="editTextPassErrorText">La contraseña no es correcta</string>
     <string name="hello_blank_fragment">Hello! I\'m a fragment</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="btnToTabbedActivity">Mostrar TabbedActivity</string>
+    <string name="btnToCameraText">Cámara</string>
 
 
 </resources>
