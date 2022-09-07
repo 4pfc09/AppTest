@@ -5,6 +5,7 @@
     <string name="btnLoginText">Sign in</string>
     <string name="editTextUserEmptyText">Introduzca nombre de usuario</string>
     <string name="editTextPassErrorText">La contraseña no es correcta</string>
+    <string name="hello_blank_fragment">Hello! I\'m a fragment</string>
 
 
 </resources>
